@@ -33,5 +33,4 @@ local function attack(player)
 
 	print(player.Name .. " performed combo hit " .. combo[player])
 
-	-- Damage, animations, and effects can be added here.
-end
+	-- Damage, animations, and effects ca
